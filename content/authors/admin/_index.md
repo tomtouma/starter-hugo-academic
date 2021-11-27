@@ -14,7 +14,7 @@ organizations:
   url: https://www.caltech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include dist. robotics, mobile computing and something something.
 
 # Interests to show in About widget
 interests:
