@@ -24,7 +24,7 @@ interests:
 - Artificial Intelligence
 
 # Education to show in About widget
-#education:
+education:
   #courses:
   #- course: PhD in Artificial Intelligence
     #institution: Stanford University
