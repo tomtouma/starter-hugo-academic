@@ -37,6 +37,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+(From LI: Hi! My work involves research and development on autonomous quadrupeds, drones, and space robots. I have proven experience in robotic hardware design, microcontroller system firmware, and robotic software implementation. I have professional experience from JPL, NASA and Caltech. My current focus is on creating resilient and autonomous robotic systems for exploration of complex environments on Earth and other celestial bodies.)
 
 John Example is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
