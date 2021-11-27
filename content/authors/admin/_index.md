@@ -1,6 +1,6 @@
 ---
 # Display name
-title: John Bighetti
+title: Thomas Touma
 
 # Is this the primary user of the site?
 superuser: true
