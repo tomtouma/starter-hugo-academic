@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 18 #20
+weight: 15 #20
 
 title: #Biography
 
