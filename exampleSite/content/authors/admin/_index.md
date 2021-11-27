@@ -1,6 +1,6 @@
 ---
 # Display name
-title: test name
+title: Test Name Title
 
 # Is this the primary user of the site?
 superuser: true
