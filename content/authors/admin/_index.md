@@ -24,9 +24,9 @@ interests:
 - Artificial Intelligence
 
 # Education to show in About widget
-education:
-  courses:
-  - #course: PhD in Artificial Intelligence
+#education:
+  #courses:
+  #- course: PhD in Artificial Intelligence
     #institution: Stanford University
     #year: 2012
   - course: M.Eng in Robotics and Mechatronics (with Distinction)  
