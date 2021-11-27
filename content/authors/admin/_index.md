@@ -31,10 +31,10 @@ education:
     #year: 2012
   - course: M.Eng in Robotics and Mechatronics (with Distinction)  
     institution: Royal Melbourne Institute of Technology
-    year: 2018
+    #year: 2018
   - course: B.Eng in Environments (Civil Engineering)
     institution: The University of Melbourne
-    year: 2010-2013
+    #year: 2010-2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
