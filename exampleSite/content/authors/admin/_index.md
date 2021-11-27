@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Thomas Touma
+title: Test Name Title
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist (Robotics)
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Caltech
-  url: https://www.caltech.edu/
+- name: Stanford University
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
