@@ -2,8 +2,7 @@
 title: Thomas Touma
 role: Research Scientist (Robotics)
 avatar_filename: ""
-bio: My research interests include dist. robotics, mobile computing and
-  something something.
+bio: ""
 interests:
   - Robotics
   - UAVs
