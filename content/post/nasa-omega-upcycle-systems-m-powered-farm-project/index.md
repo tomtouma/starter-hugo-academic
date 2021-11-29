@@ -12,8 +12,8 @@ authors:
   - and Jonathan D. Trent
 
 links:
-- icon: #twitter
-  icon_pack: #fab
+- #icon: #twitter
+  #icon_pack: #fab
   name: PDF
   url: https://google.com
   url_code: "google.com"
