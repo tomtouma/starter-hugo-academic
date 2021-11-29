@@ -21,6 +21,15 @@ links:
   url_slides: ""
   url_video: ""
 
+-icon: #twitter
+  icon_pack: #fab
+  name: ResearchGate
+  url: https://www.researchgate.net/publication/322937229_UpCycle_Systems_M-Powered_Farm_Project_Methods_References_Contact_information
+  url_code: ""
+  url_pdf: ""
+  url_slides: ""
+  url_video:
+
 image:
   filename: featured.jpg
   focal_point: Smart
