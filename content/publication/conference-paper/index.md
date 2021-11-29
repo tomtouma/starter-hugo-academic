@@ -8,11 +8,7 @@ authors:
   - Steve
   - John
   - Mark
-author_notes:
-  - NASA
-  - Caltech
-  - Stanford
-  - MIT
+author_notes: []
 doi: 100.1000/100
 publication: Robotics International
 publication_short: RI
