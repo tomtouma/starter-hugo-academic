@@ -105,7 +105,7 @@ summary: >-
 
   water, and energy, which should improve the overall economics of animal farms.
 url_dataset: ""
-url_project: "google.com"
+url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
