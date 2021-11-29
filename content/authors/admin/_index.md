@@ -4,10 +4,11 @@ role: Research Scientist (Robotics)
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Robotics
-  - UAVs
+  - Robotics (Aerial
+  - Legged)
   - Autonomous Space Systems
   - Artificial Intelligence
+  - Learning new things
 social:
   - icon: envelope
     icon_pack: fas
@@ -37,7 +38,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi! I'm a research scientist at Caltech. <!--I'm also an affiliate roboticist at the NASA Jet Propulsion Laboratory.--> My work involves R&D on autonomous quadrupeds, drones, and space robots. I have professional experience in robotic hardware design, microcontroller system firmware, and robotic software implementation. I've had the privilege of working at JPL and NASA on various projects ranging from robotics/AI to astrobiology, including the DARPA Subterranean Challenge, OMEGA system, NeBula AI solution, BRAILLE and more. My current focus is on creating resilient and autonomous robotic systems for exploration of complex environments on Earth and other celestial bodies. 
+Hi! I'm a research scientist at Caltech. <!--I'm also an affiliate roboticist at the NASA Jet Propulsion Laboratory.--> My work involves R&D on autonomous quadrupeds, drones, and space robots. I have professional experience in robotic hardware design, microcontroller system firmware, and robotic software implementation. I've had the privilege of working at JPL and NASA on various projects including the DARPA Subterranean Challenge, OMEGA system, NeBula AI solution, BRAILLE and more. My current focus is on creating resilient and autonomous robotic systems for exploration of complex environments on Earth and other celestial bodies. 
 
 When I'm not at work, I'm back home on my farm with my squad (my five mischievous hunting dogs), riding dirt bikes, flying drones, weightlifting, tinkering with machinery, hanging with my grandparents, and working on the farm.
 
