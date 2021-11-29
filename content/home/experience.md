@@ -72,8 +72,8 @@ experience:
     company_url: ''
     company_logo: #org-x
     location: Victoria, Australia
-    date_start: '2009-01-01'
-    date_end: '2013-01-01'
+    date_start: '2009' #'2009-01-01'
+    date_end: '2013' #'2013-01-01'
     description:
 
 design:
