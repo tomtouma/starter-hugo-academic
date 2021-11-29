@@ -36,23 +36,14 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Student Engineer
+    company: John Holland
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: |2- Taught electronic engineering and researched semiconductor physics.
-
-  - title: Professor of Theoretical Physics
-    company: Caltech
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2014-01-01'
-    date_end: '2015-12-31'
-    description: Taught something something physics.
+    company_logo: #org-x
+    location: Australia
+    date_start: '2009'
+    date_end: '2013'
+    description: #|2- Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
