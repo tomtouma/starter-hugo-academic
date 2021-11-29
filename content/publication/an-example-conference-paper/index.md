@@ -26,7 +26,7 @@ url_project: ""
 publication_short: In *ICW*
 url_source: ""
 url_video: ""
-title: An example conference paper
+title: An example conference paper 2
 doi: ""
 featured: true
 tags: []
@@ -36,9 +36,10 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
+  filename: img_0834-spot-good-picture.jpg
 date: 2021-11-29T09:30:18.037Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
