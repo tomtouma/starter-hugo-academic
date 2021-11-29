@@ -13,9 +13,9 @@ authors:
 
 links:
   -name: PDF
-    url: https://google.com
+    url_PDF: https://google.com
   -name: ResearchGate
-    url: https://www.researchgate.net/publication/322937229_UpCycle_Systems_M-Powered_Farm_Project_Methods_References_Contact_information
+    url_ResearchGate: https://www.researchgate.net/publication/322937229_UpCycle_Systems_M-Powered_Farm_Project_Methods_References_Contact_information
 
 image:
   filename: featured.jpg
