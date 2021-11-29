@@ -1,5 +1,5 @@
 ---
-title: Project Title
+title: Project Title 1
 subtitle: This is a subtitle to the title
 publication_types:
   - "1"
