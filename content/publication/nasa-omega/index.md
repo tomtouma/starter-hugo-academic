@@ -65,8 +65,7 @@ url_source: null
 url_video: null
 title: "NASA OMEGA/UpCycle Systems: M-Powered Farm Project"
 featured: false
-tags:
-  - Source Themes
+tags: []
 date: 2018-03-07T00:00:00.000Z
 url_slides: ""
 links:
