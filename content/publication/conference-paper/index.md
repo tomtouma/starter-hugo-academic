@@ -63,7 +63,7 @@ draft: false
 featured: false
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: Right
   preview_only: false
 date: 2018-03-01T11:36:49.525Z
 ---
