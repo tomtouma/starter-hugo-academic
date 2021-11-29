@@ -4,7 +4,7 @@
 widget: pages
 
 # Change this to false/true to pick whether this page is active
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
