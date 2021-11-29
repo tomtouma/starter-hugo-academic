@@ -51,12 +51,11 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "1"
 authors:
-  - admin
-author_notes:
-  - Kristijonas Kerekeš
+  - Kristijonas Kerekes
   - Thomas Touma
   - Abdelrahman Budair
   - Jonathan D. Trent
+author_notes: []
 publication: ""
 summary: ""
 url_dataset: "#"
@@ -68,7 +67,7 @@ title: "NASA OMEGA/UpCycle Systems: M-Powered Farm Project"
 featured: false
 tags:
   - Source Themes
-date: 2019-04-07T00:00:00Z
+date: 2019-04-07T00:00:00.000Z
 url_slides: ""
 links:
   - name: Custom Link
@@ -79,7 +78,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: ""
