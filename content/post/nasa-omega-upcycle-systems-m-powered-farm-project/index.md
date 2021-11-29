@@ -1,7 +1,7 @@
 ---
 title: "NASA OMEGA/UpCycle Systems: M-Powered Farm Project"
 subtitle: NASA Ames Research Center 2017/SP-219877, 2018.
-date: 
+date: 2021-11-29T11:19:59.612Z
 summary: ""
 draft: false
 featured: false
@@ -10,7 +10,6 @@ authors:
   - Thomas Touma
   - Abdelrahman Budair
   - and Jonathan D. Trent
-
 image:
   filename: featured.jpg
   focal_point: Smart
