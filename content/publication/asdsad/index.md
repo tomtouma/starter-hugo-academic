@@ -19,7 +19,7 @@ publication_short: RI
 abstract: This is an abstract with text in it. Very interesting stuff goes here.
   This is useful information. Blah blah blah blah.
 draft: false
-featured: false
+featured: true
 tags:
   - Tag1
   - Tag2
