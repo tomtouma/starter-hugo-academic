@@ -19,7 +19,7 @@ publication_short: RI
 abstract: This is an abstract with text in it. Very interesting stuff goes here.
   This is useful information. Blah blah blah blah.
 draft: false
-featured: true
+featured: false
 tags:
   - Tag1
   - Tag2
@@ -37,7 +37,7 @@ projects:
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: This is an image caption.
   alt_text: This is the description for screen readers.
 summary: This is a shortened abstract.
