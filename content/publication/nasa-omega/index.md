@@ -78,6 +78,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: featured.jpg
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
