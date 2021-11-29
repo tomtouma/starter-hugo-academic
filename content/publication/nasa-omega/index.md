@@ -43,7 +43,7 @@ results suggest the OMEGA Farm Project will help close loops between waste, food
 water, and energy, which should improve the overall economics of animal farms.
 
 # Summary. An optional shortened abstract.
-summary:
+summary: ""
 
 tags:
 - Source Themes
