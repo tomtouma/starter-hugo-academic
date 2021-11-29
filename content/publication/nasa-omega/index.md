@@ -70,7 +70,7 @@ title: "NASA OMEGA/UpCycle Systems: M-Powered Farm Project"
 featured: false
 tags:
   - Source Themes
-date: 2019-04-07T00:00:00.000Z
+date: 2018-03-07T00:00:00.000Z
 url_slides: ""
 links:
   - name: ResearchGate
