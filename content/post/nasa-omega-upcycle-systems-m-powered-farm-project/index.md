@@ -12,10 +12,10 @@ authors:
   - and Jonathan D. Trent
 
 links:
-  -name: PDF
-    url_PDF: https://google.com
-  -name: ResearchGate
-    url_ResearchGate: https://www.researchgate.net/publication/322937229_UpCycle_Systems_M-Powered_Farm_Project_Methods_References_Contact_information
+  -name1: PDF
+    url_name1: https://google.com
+  -name2: ResearchGate
+    url_name2: https://www.researchgate.net/publication/322937229_UpCycle_Systems_M-Powered_Farm_Project_Methods_References_Contact_information
 
 image:
   filename: featured.jpg
