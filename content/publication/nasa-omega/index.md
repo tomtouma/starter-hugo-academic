@@ -1,4 +1,7 @@
 ---
+#To fix the stupid display of the single line for publications, you have to go to publications.md
+#in content/home and change the design view to compact (2). I couldn't find this noted anywhere.
+#Ridiculous.
 abstract: >-
   The world is already facing shortage of vital resources in part due to climate
   change and
