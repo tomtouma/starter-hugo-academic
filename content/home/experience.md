@@ -26,27 +26,27 @@ experience:
     company: NASA Jet Propulsion Laboratory
     company_url: ''
     company_logo: #org-gc
-    location: California
+    location: Pasadena, California
     date_start: '2018-12-01'
     date_end: ''
-    description:
-    
-  - title: Research Engineer
-    company: Caltech
-    company_url: ''
-    company_logo: #org-x
-  location: California
-    date_start: '2019-06-01'
-    date_end: '2020-05-01'
     description:
 
   - title: Research Engineer
     company: Caltech
     company_url: ''
     company_logo: #org-x
-    location: California
+    location: Pasadena, California
     date_start: '2019-06-01'
     date_end: '2020-05-01'
+    description:
+
+  - title: Engineering and Exobiology/Astrobiology Intern
+    company: NASA Ames Research Center
+    company_url: ''
+    company_logo: #org-x
+    location: Mountain View, California
+    date_start: '2017-06-01'
+    date_end: '2017-09-01'
     description:
 
 design:
