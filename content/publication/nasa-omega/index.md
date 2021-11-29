@@ -61,7 +61,6 @@ authors:
 author_notes: []
 publication: ""
 summary: ""
-url_ResearchGate: "#"
 url_dataset: #"#"
 url_project: ""
 publication_short: ""
@@ -74,8 +73,8 @@ tags:
 date: 2019-04-07T00:00:00.000Z
 url_slides: ""
 links:
-  - name: Custom Link
-    url: http://example.org
+  - name: ResearchGate
+    url: https://www.researchgate.net/publication/322937229_UpCycle_Systems_M-Powered_Farm_Project_Methods_References_Contact_information
 projects: []
 image:
   caption: ""
