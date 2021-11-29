@@ -16,12 +16,10 @@ links:
   icon_pack: #fab
   name: PDF
   url: https://google.com
-  url_code: ""
-  url_pdf: ""
-  url_slides: ""
-  url_video: ""
-
-ResearchGate: https://www.researchgate.net/publication/322937229_UpCycle_Systems_M-Powered_Farm_Project_Methods_References_Contact_information
+  url_code: "google.com"
+  url_pdf: "amazon.com"
+  url_slides: "intel.com"
+  url_video: "youtube.com"
 
 image:
   filename: featured.jpg
