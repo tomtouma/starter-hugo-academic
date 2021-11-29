@@ -7,7 +7,7 @@ interests:
   - Robotics (Aerial & Legged)
   - Autonomous Space Systems
   - Artificial Intelligence
-  - Learning new things
+  - End-to-end prototyping
 social:
   - icon: envelope
     icon_pack: fas
