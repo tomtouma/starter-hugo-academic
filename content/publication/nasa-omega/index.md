@@ -61,10 +61,11 @@ authors:
 author_notes: []
 publication: ""
 summary: ""
+url_ResearchGate: "#"
 url_dataset: #"#"
 url_project: ""
 publication_short: ""
-url_source: "#"
+url_source: #"#"
 url_video: "#"
 title: "NASA OMEGA/UpCycle Systems: M-Powered Farm Project"
 featured: false
@@ -82,7 +83,7 @@ image:
   preview_only: false
   filename: featured.jpg
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: "#"
+url_poster: #"#"
 url_code: #https://github.com/wowchemy/wowchemy-hugo-themes
 doi: ""
 ---
