@@ -1,7 +1,7 @@
 ---
 title: "NASA OMEGA/UpCycle Systems: M-Powered Farm Project"
 subtitle: NASA Ames Research Center 2017/SP-219877, 2018.
-date: null
+date: 
 summary: ""
 draft: false
 featured: false
