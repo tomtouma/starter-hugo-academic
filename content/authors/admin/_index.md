@@ -4,8 +4,7 @@ role: Research Scientist (Robotics)
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Robotics (Aerial
-  - Legged)
+  - Robotics (Aerial & Legged)
   - Autonomous Space Systems
   - Artificial Intelligence
   - Learning new things
