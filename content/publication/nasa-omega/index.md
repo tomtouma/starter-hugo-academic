@@ -75,6 +75,9 @@ url_slides: ""
 links:
   - name: Custom Link
     url: http://example.org
+links:
+  - name: Custom Link 2
+    url: http://example.org
 projects: []
 image:
   caption: ""
