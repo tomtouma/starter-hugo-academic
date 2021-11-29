@@ -25,7 +25,7 @@ experience:
   - title: Robotics Engineer
     company: NASA Jet Propulsion Laboratory
     company_url: ''
-    company_logo: org-gc
+    company_logo: #org-gc
     location: California
     date_start: '2021-01-01'
     date_end: ''
