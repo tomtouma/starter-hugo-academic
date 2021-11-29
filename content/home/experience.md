@@ -29,12 +29,16 @@ experience:
     location: California
     date_start: '2018-12-01'
     date_end: ''
-    description: #|2-
-        #Responsibilities include:
-
-        #* Analysing
-        #* Modelling
-        #* Deploying
+    description:
+    
+  - title: Research Engineer
+    company: Caltech
+    company_url: ''
+    company_logo: #org-x
+  location: California
+    date_start: '2019-06-01'
+    date_end: '2020-05-01'
+    description:
 
   - title: Research Engineer
     company: Caltech
@@ -43,7 +47,7 @@ experience:
     location: California
     date_start: '2019-06-01'
     date_end: '2020-05-01'
-    description: #Taught electronic engineering and researched semiconductor physics.
+    description:
 
 design:
   columns: '2'
