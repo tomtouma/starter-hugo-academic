@@ -1,7 +1,4 @@
 ---
-#To fix the stupid display of the single line for publications, you have to go to publications.md
-#in content/home and change the design view to compact (2). I couldn't find this noted anywhere.
-#Ridiculous.
 abstract: >-
   The world is already facing shortage of vital resources in part due to climate
   change and
@@ -59,13 +56,13 @@ authors:
   - Abdelrahman Budair
   - Jonathan D. Trent
 author_notes: []
-publication: ""
+publication: NASA Ames Research Center 2017/SP-219877, 2018.
 summary: ""
-url_dataset: #"#"
+url_dataset: null
 url_project: ""
 publication_short: ""
-url_source: #"#"
-url_video: #"#"
+url_source: null
+url_video: null
 title: "NASA OMEGA/UpCycle Systems: M-Powered Farm Project"
 featured: false
 tags:
@@ -82,7 +79,7 @@ image:
   preview_only: false
   filename: featured.jpg
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: #"#"
-url_code: #https://github.com/wowchemy/wowchemy-hugo-themes
+url_poster: null
+url_code: null
 doi: ""
 ---
