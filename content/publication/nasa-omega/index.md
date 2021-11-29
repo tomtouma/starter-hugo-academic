@@ -50,7 +50,7 @@ abstract: >-
 
   water, and energy, which should improve the overall economics of animal farms.
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://drive.google.com/file/d/1oL9aCDNgtgFNBmSqhJLPdF5FA2mQEGp4/view?usp=sharing
 publication_types:
   - "1"
 authors:
@@ -65,7 +65,7 @@ url_dataset: #"#"
 url_project: ""
 publication_short: ""
 url_source: #"#"
-url_video: "#"
+url_video: #"#"
 title: "NASA OMEGA/UpCycle Systems: M-Powered Farm Project"
 featured: false
 tags:
