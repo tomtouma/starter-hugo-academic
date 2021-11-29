@@ -2,7 +2,7 @@
 title: "NASA OMEGA/UpCycle Systems: M-Powered Farm Project"
 subtitle: ""
 publication_types:
-  - "1"
+  - "0"
 authors:
   - Kristijonas Kerekeš
   - Thomas Touma
