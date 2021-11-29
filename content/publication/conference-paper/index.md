@@ -60,10 +60,10 @@ abstract: >-
 
   water, and energy, which should improve the overall economics of animal farms
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 date: 2018-03-01T11:36:49.525Z
 ---
