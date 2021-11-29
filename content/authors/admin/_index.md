@@ -29,7 +29,7 @@ organizations:
     url: https://www.caltech.edu/
 education:
   courses:
-    - course: M.Eng in Robotics and Mechatronics (with Distinction)
+    - course: M.Eng in Robotics and Mechatronics, with Distinction (with Distinction)
       institution: Royal Melbourne Institute of Technology
     - course: B.Eng in Environments (Civil Engineering)
       institution: The University of Melbourne
