@@ -36,7 +36,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-  filename: img_0834-spot-good-picture.jpg
+  filename: featured.jpg
 date: 2021-11-29T09:30:18.037Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
