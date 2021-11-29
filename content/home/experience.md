@@ -33,7 +33,7 @@ experience:
     description: null
 widget_id: "01"
 headless: true
-weight: 60
+weight: 80
 title: Experience
 subtitle: null
 design:
