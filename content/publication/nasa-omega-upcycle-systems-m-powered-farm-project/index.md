@@ -55,9 +55,7 @@ authors:
   - Thomas Touma
   - Abdelrahman Budair
   - Jonathan D. Trent
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: NASA Ames Research Center 2017/SP-219877, 2018
 summary: >-
   The world is already facing shortage of vital resources in part due to climate
