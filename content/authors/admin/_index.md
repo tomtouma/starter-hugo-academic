@@ -24,6 +24,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/thomastouma/
+  - display:
+      header: false
+    link: https://www.instagram.com/thomastouma/
+    icon_pack: fab
+    icon: instagram
 organizations:
   - name: Caltech
     url: https://www.caltech.edu/
