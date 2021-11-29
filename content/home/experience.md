@@ -27,14 +27,14 @@ experience:
     company_url: ''
     company_logo: #org-gc
     location: California
-    date_start: '2021-01-01'
+    date_start: '2018-12-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: #|2-
+        #Responsibilities include:
 
-        * Analysing
-        * Modelling
-        * Deploying
+        #* Analysing
+        #* Modelling
+        #* Deploying
 
   - title: Professor of Semiconductor Physics
     company: University X
