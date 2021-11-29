@@ -49,6 +49,33 @@ experience:
     date_end: '2017-09-01'
     description:
 
+  - title: Melbourne Space Program
+    company: Cubesat Mission Operations Officer
+    company_url: ''
+    company_logo: #org-x
+    location: Melbourne, Australia
+    date_start: '2016-02-01'
+    date_end: '2016-08-01'
+    description:
+
+  - title: The University of Melbourne
+    company: Graduate Teaching Assistant
+    company_url: ''
+    company_logo: #org-x
+    location: Melbourne, Australia
+    date_start: '2015-01-01'
+    date_end: '2015-07-01'
+    description:
+
+  - title: Student Engineer
+    company: John Holland
+    company_url: ''
+    company_logo: #org-x
+    location: Victoria, Australia
+    date_start: '2009-01-01'
+    date_end: '2013-01-01'
+    description:
+
 design:
   columns: '2'
 ---
