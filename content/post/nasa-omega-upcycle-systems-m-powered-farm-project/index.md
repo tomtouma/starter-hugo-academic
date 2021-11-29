@@ -14,7 +14,7 @@ authors:
 links:
 - icon: #twitter
   icon_pack: #fab
-  name: PDF
+  name: PDF2
   url: https://google.com
   url_code: ""
   url_pdf: ""
