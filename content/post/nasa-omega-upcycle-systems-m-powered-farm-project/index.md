@@ -10,6 +10,16 @@ authors:
   - Thomas Touma
   - Abdelrahman Budair
   - and Jonathan D. Trent
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
+  url_code: ""
+  url_pdf: ""
+  url_slides: ""
+  url_video: ""
 image:
   filename: featured.jpg
   focal_point: Smart
