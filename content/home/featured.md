@@ -1,4 +1,7 @@
 ---
+# Change this to false/true to pick whether this page is active
+active: true
+
 widget: featured
 widget_id: "065"
 headless: true
