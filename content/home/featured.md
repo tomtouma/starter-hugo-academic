@@ -1,6 +1,6 @@
 ---
 # Change this to false/true to pick whether this page is active
-active: true
+active: false
 
 widget: featured
 widget_id: "065"
