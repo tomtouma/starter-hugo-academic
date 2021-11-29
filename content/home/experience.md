@@ -52,7 +52,7 @@ experience:
     description: null
 widget_id: "022"
 headless: true
-weight: 150
+weight: 140
 title: Experience
 subtitle: null
 design:
