@@ -42,6 +42,9 @@ abstract: |-
   simple transition process that exploits BAXTER’s resilience to impact.
 draft: false
 featured: false
+
+url_pdf: https://drive.google.com/file/d/1u1dLjDFsOq4H61lM-658xqIwB2tA0nrI/view?usp=sharing
+
 image:
   filename: featured.jpg
   focal_point: Smart
