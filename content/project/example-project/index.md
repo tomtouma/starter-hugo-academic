@@ -4,7 +4,7 @@ url_pdf: ""
 summary: ""
 url_video: ""
 date: 2021-12-01T08:18:34.157Z
-external_link: ""
+external_link: https://www.darpa.mil/program/darpa-subterranean-challenge
 url_slides: ""
 title: DARPA Subterranean Challenge
 tags:
