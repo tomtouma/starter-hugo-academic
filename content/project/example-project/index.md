@@ -8,7 +8,7 @@ external_link: https://www.darpa.mil/program/darpa-subterranean-challenge
 url_slides: ""
 title: DARPA Subterranean Challenge
 tags:
-  - Robotics
+  - robotics
 links:
   - url: https://youtu.be/XycQY4PO72s
     name: Video
