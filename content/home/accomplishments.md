@@ -11,7 +11,7 @@ item:
   #  title: JVSRP Fellowship
   #  url: ""
 
-  - certificate_url: "https://drive.google.com/file/d/1a7cMs9MgMvALp5RMV6lM0Soy4OSeNxj3/view?usp=sharing"
+  - certificate_url: "https://drive.google.com/file/d/1XCHgNgx__rcDSUFDKtusJfuAaGmuBEpU/view?usp=sharing"
     date_end: ""
     date_start: 2021-09-01
     description: "For artefact detection with least time remaining in the challenge."
@@ -32,7 +32,7 @@ item:
   - certificate_url: "https://drive.google.com/file/d/1ejKk5A7pcbXuYA-rZBt05MEBZFR779rr/view?usp=sharing"
     date_end: ""
     date_start: 2020-02-01
-    description: "Thank you to the CoSTAR [Collaborative Subterranean Autonomous Resilient Robots] team’s development of novel and cutting-edge autonomy, perception, and mobility capabilities enabling robots to explore unknown subsurface voids, urban structures and caves autonomously. This team’s efforts led to the first place win in the Urban Circuit of DARPA Subterranean Challenge in February 2020, vs 11 international teams for Fully Autonomous navigation & detect mission, maintaining JPL’s national leadership in autonomy in extreme environments."
+    description: "..presented to Thomas Touma..[and] Team CoSTAR..[for] development of novel and cutting-edge autonomy, perception, and mobility capabilities.."
     organization: NASA Jet Propulsion Laboratory
     organization_url: https://www.jpl.nasa.gov/
     title: NASA JPL STAR Award
