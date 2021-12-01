@@ -64,8 +64,11 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: featured.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
+  caption: Mars Dogs' four-phase, novel mission architecture following EDL.
+    Includes “Mars Walk” [A], “Collaborative Tethering” [B], “Lava Tube
+    Ingress/Egress” [C], “Deep Cave Exploration” [D].
 date: 2021-12-01T02:00:00.249Z
 ---
