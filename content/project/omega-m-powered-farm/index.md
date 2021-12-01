@@ -20,4 +20,4 @@ image:
   filename: featured.jpg
 url_code: ""
 ---
-The OMEGA Project (Offshore Membrane Enclosures for Growing Algae) is an innovative method to grow algae, clean wastewater, capture carbon dioxide and to ultimately produce biofuel without competing with agriculture for water, fertilizer or land. It was later expanded into the "OMEGA Farm" or "M-Powered Farm" project which aims to find a nexus between food, energy, water and waste on livestock farms. The purpose being to maximize efficiency and lower costs on farms and to reduce environmental pollution.
+The OMEGA Project (Offshore Membrane Enclosures for Growing Algae) led by NASA and the Omega Global Initiative, is an innovative method to grow algae, clean wastewater, capture carbon dioxide and to ultimately produce biofuel without competing with agriculture for water, fertilizer or land. It was later expanded into the "OMEGA Farm" or "M-Powered Farm" project which aims to find a nexus between food, energy, water and waste on livestock farms. The purpose being to maximize efficiency and lower costs on farms and to reduce environmental pollution by repurposing animal waste into usable algal resources.
