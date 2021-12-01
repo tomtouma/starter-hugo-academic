@@ -49,7 +49,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: '"Autonomous Spot" equipped with NeBula autonomy payload'
+  caption: '"Autonomous Spot" equipped with the "NeBula" autonomy payload'
 summary: ""
 date: 2021-12-01T00:12:30.083Z
 ---
