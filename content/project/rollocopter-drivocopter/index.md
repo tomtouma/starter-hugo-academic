@@ -20,4 +20,4 @@ image:
   filename: featured.jpg
 url_code: ""
 ---
-Is it a rover or a flyer? It's both. Rollocopter & Drivocopter are hybrid aerial and terrestrial platforms. They use a quadrotor system to fly or roll along on passive and actuated wheels. These designs give the robots greater range than aerial-only quadrotors and eliminates obstacle-avoidance issues associated with ground-only robots. When the hybrid robots encounter an obstacle, they can simply fly over it. To fly, this robot requires a celestial body with an atmosphere and could potentially be used to explore subterranean caves on other worlds.
+Is it a rover or a flyer? It's both. Rollocopter & Drivocopter are hybrid aerial and terrestrial platforms. They use a quadrotor system to fly or roll along on passive and actuated wheels. These designs give the robots greater range than aerial-only quadrotors and eliminate obstacle-avoidance issues associated with ground-only robots. When the hybrid robots encounter an obstacle, they can simply fly over it. To fly, this robot requires a celestial body with an atmosphere and could potentially be used to explore subterranean caves on other worlds.
