@@ -52,7 +52,7 @@ url_video: https://www.youtube.com/watch?v=VitjPLRdY8g&ab_channel=TeamCoSTAR
 #url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
 links:
-  - name: {Presentation}, {cat}
+  - name: Cat
     url: https://www.youtube.com/watch?v=XWkIvdIsiBE&ab_channel=TeamCoSTAR
 
 image:
