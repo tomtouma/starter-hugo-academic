@@ -33,6 +33,9 @@ abstract: |-
   of the current DARPA SubT Challenge.
 draft: false
 featured: false
+
+url_pdf: https://drive.google.com/file/d/103T3Yg5CLuB__5t47eCXZeGu0v1MRKoj/view?usp=sharing
+
 image:
   filename: featured.jpg
   focal_point: Smart
