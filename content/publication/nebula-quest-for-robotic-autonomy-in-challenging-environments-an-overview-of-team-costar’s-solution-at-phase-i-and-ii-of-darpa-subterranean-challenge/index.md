@@ -45,6 +45,9 @@ abstract: >-
   the DARPA Subterranean Challenge competition.
 draft: false
 featured: false
+
+url_pdf: https://drive.google.com/file/d/1npG-omasgOgw1n6NrcPj-8GRcnTBGOL-/view?usp=sharing
+
 image:
   filename: featured.jpg
   focal_point: Smart
