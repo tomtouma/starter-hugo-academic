@@ -42,6 +42,12 @@ abstract: "Exploring Planetary subsurface voids is important for research in
   application for future planetary subsurface exploration."
 draft: false
 featured: false
+
+url_video: https://www.youtube.com/watch?v=9BzMKMaUH20
+links:
+  - name: Poster
+    url: https://drive.google.com/file/d/19KiMvK0j1XSV7Lvxb-8SSYr5SqR4WoTS/view?usp=sharing
+
 image:
   filename: featured.jpg
   focal_point: Smart
