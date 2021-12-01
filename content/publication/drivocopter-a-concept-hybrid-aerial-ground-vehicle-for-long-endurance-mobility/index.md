@@ -76,6 +76,7 @@ abstract: >
   efficiency for hybrid mobility over purely flying.
 draft: false
 featured: false
+url_pdf: https://drive.google.com/file/d/1snIHAvgmTofoELo3j34k0Fg_R4S5RoCp/view?usp=sharing
 image:
   filename: featured.jpg
   focal_point: Smart
