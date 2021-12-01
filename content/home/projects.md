@@ -13,8 +13,12 @@ content:
       tag: "*"
     - name: Robotics
       tag: robotics
-    - name: Other
-      tag: Demo
+    - name: Aero
+      tag: aero
+    - name: Space
+      tag: space
+    - name: Astrobiology
+      tag: astrobiology
 design:
   columns: "1"
   view: 3
