@@ -46,6 +46,6 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-summary: https://drive.google.com/file/d/1u1dLjDFsOq4H61lM-658xqIwB2tA0nrI/view?usp=sharing
+summary: ""
 date: 2021-12-01T01:17:10.548Z
 ---
