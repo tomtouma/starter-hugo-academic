@@ -11,6 +11,51 @@ item:
   #  title: JVSRP Fellowship
   #  url: ""
 
+  - certificate_url: "https://drive.google.com/file/d/1a7cMs9MgMvALp5RMV6lM0Soy4OSeNxj3/view?usp=sharing"
+    date_end: ""
+    date_start: 2021-09-01
+    description: "For artefact detection with least time remaining in the challenge."
+    organization: DARPA
+    organization_url: https://darpa.mil/
+    title: Down to the Wire
+    url: ""
+
+  - certificate_url: "https://drive.google.com/file/d/1a7cMs9MgMvALp5RMV6lM0Soy4OSeNxj3/view?usp=sharing"
+    date_end: ""
+    date_start: 2020-10-01
+    description: ""
+    organization: International Conference on Intelligent Robots and Systems (IROS/IEEE)
+    organization_url: https://www.iros2020.org/
+    title: Best Paper on 'Safety, Security, and Rescue Robotics in honor of Motohiro Kisoi'
+    url: ""
+
+  - certificate_url: "https://drive.google.com/file/d/1ejKk5A7pcbXuYA-rZBt05MEBZFR779rr/view?usp=sharing"
+    date_end: ""
+    date_start: 2020-02-01
+    description: "Thank you to the CoSTAR [Collaborative Subterranean Autonomous Resilient Robots] team’s development of novel and cutting-edge autonomy, perception, and mobility capabilities enabling robots to explore unknown subsurface voids, urban structures and caves autonomously. This team’s efforts led to the first place win in the Urban Circuit of DARPA Subterranean Challenge in February 2020, vs 11 international teams for Fully Autonomous navigation & detect mission, maintaining JPL’s national leadership in autonomy in extreme environments."
+    organization: NASA Jet Propulsion Laboratory
+    organization_url: https://www.jpl.nasa.gov/
+    title: NASA JPL STAR Award
+    url: ""
+
+  - certificate_url: "https://drive.google.com/file/d/1uhZhO1YsDXuu_qAMqxpyGuMsrdS-LzmE/view?usp=sharing"
+    date_end: ""
+    date_start: 2020-02-01
+    description: "1st Place, Member of NASA/JPL/Caltech/MIT's 'Team CoSTAR'"
+    organization: DARPA
+    organization_url: https://darpa.mil/
+    title: DARPA Subterranean Challenge - Urban Circuit, Satsop Nuclear Plant, Washington
+    url: "https://www.darpa.mil/program/darpa-subterranean-challenge"
+
+  - certificate_url: "https://drive.google.com/file/d/1y9XIIOCg3nvKWHlumXUazJWcPfm0vV3f/view?usp=sharing"
+    date_end: ""
+    date_start: 2019-08-01
+    description: "2nd Place - Member of NASA/JPL/Caltech/MIT's 'Team CoSTAR'"
+    organization: DARPA
+    organization_url: https://darpa.mil/
+    title: DARPA Subterranean Challenge - Tunnel Circuit, Pittsburgh Research Mine, Pennsylvania
+    url: "https://www.darpa.mil/program/darpa-subterranean-challenge"
+
   - certificate_url: ""
     date_end: ""
     date_start: 2019-01-01
