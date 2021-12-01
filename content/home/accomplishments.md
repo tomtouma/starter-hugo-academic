@@ -2,6 +2,24 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
+  #- certificate_url: ""
+#    date_end: ""
+#    date_start: 2019-01-01
+  #  description: "Selected to perform research at NASA JPL's Autonomous Systems Division"
+#    organization: NASA Jet Propulsion Laboratory
+#    organization_url: https://www.jpl.nasa.gov/
+  #  title: JVSRP Fellowship
+  #  url: ""
+
+  - certificate_url: ""
+    date_end: ""
+    date_start: 2019-01-01
+    description: "Selected to perform research at NASA JPL's Autonomous Systems Division"
+    organization: NASA Jet Propulsion Laboratory
+    organization_url: https://www.jpl.nasa.gov/
+    title: JVSRP Fellowship
+    url: ""
+
   - certificate_url: ""
     date_end: ""
     date_start: 2018-11-01
