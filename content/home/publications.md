@@ -8,7 +8,7 @@ subtitle: ""
 active: true
 content:
   page_type: publication
-  count: 5
+  count: 10 #5 This is the number of publications that are displayed on the front page 
   offset: 0
   order: desc
   filters:
