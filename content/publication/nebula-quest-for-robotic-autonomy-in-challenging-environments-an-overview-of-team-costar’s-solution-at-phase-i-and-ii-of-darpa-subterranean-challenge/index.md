@@ -6,7 +6,7 @@ publication_types:
   - "2"
 authors:
   - A. Agha-Mohammadi
-  - et al.
+  - et al
 publication: Journal of Field Robotics
 abstract: >-
   This paper presents and discusses algorithms, hardware, and software
