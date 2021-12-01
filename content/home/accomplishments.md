@@ -2,19 +2,11 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-  #- certificate_url: ""
-#    date_end: ""
-#    date_start: 2019-01-01
-  #  description: "Selected to perform research at NASA JPL's Autonomous Systems Division"
-#    organization: NASA Jet Propulsion Laboratory
-#    organization_url: https://www.jpl.nasa.gov/
-  #  title: JVSRP Fellowship
-  #  url: ""
 
   - certificate_url: "https://drive.google.com/file/d/1XCHgNgx__rcDSUFDKtusJfuAaGmuBEpU/view?usp=sharing"
     date_end: ""
     date_start: 2021-09-01
-    description: "For artefact detection with least time remaining in the challenge."
+    description: "Awarded to Team CoSTAR for artefact detection with the least time remaining in the challenge."
     organization: DARPA
     organization_url: https://darpa.mil/
     title: Down to the Wire
