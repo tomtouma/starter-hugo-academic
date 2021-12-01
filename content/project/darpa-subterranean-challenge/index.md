@@ -19,7 +19,7 @@ links:
 image:
   caption: ""
   focal_point: Smart
-  filename:
+  filename: featured.jpg
 url_code: ""
 ---
 Team CoSTAR takes on the DARPA Subterranean (SubT) Challenge which aims to develop innovative technologies that would augment operations underground. The SubT Challenge will explore new approaches to rapidly map, navigate, search, and exploit complex underground environments, including human-made tunnel systems, urban underground, and natural cave networks.
