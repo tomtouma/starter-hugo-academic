@@ -63,6 +63,12 @@ abstract: >-
   California, an analog environment for future missions to volcanic caves on Mars.
 draft: false
 featured: false
+
+url_video: https://youtu.be/bOlF9DXyJdw
+links:
+  - name: Poster
+    url: https://drive.google.com/file/d/1-fCbxmfxbz8uhsaXHxH-3mP4UBwPUC4G/view?usp=sharing
+
 image:
   filename: featured.jpg
   focal_point: Smart
