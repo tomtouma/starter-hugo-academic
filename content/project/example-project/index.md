@@ -13,7 +13,7 @@ links:
   - url: https://youtu.be/XycQY4PO72s
     name: Video
   - url: https://costar.jpl.nasa.gov/
-    name: Website
+    name: Team Website
 image:
   caption: ""
   focal_point: Smart
