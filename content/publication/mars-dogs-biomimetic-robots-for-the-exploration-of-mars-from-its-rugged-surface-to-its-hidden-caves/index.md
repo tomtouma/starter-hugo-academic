@@ -64,7 +64,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: Mars Dogs' four-phase, novel mission architecture following EDL.
