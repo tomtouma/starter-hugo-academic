@@ -29,7 +29,7 @@ item:
 widget_id: "778"
 headless: true
 weight: 50
-title: News
+title: Awards
 subtitle: null
 design:
   columns: "2"
