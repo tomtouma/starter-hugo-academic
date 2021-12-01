@@ -49,12 +49,10 @@ featured: false
 url_pdf: https://drive.google.com/file/d/1m8AC9ibk5RUeE8vCL_l1THWKXNrifZWy/view?usp=sharing
 url_video: https://www.youtube.com/watch?v=VitjPLRdY8g&ab_channel=TeamCoSTAR
 
-links:[{
+links:
   - name: Presentation
     url: https://www.youtube.com/watch?v=XWkIvdIsiBE&ab_channel=TeamCoSTAR
-  - name: Award
-    url: https://drive.google.com/file/d/1a7cMs9MgMvALp5RMV6lM0Soy4OSeNxj3/view?usp=sharing
-}]
+
 image:
   filename: featured.jpg
   focal_point: Smart
