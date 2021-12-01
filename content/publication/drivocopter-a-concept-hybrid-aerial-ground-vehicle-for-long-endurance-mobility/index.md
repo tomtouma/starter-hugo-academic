@@ -2,7 +2,7 @@
 title: "Drivocopter: A concept Hybrid Aerial/Ground vehicle for long-endurance
   mobility"
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Arash Kalantari
   - Thomas Touma
@@ -75,8 +75,8 @@ abstract: >
 
   efficiency for hybrid mobility over purely flying.
 draft: false
-featured: false
 url_pdf: https://drive.google.com/file/d/1snIHAvgmTofoELo3j34k0Fg_R4S5RoCp/view?usp=sharing
+featured: false
 image:
   filename: featured.jpg
   focal_point: Smart
