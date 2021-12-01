@@ -11,8 +11,8 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Robotics
+      tag: robotics
     - name: Other
       tag: Demo
 design:
