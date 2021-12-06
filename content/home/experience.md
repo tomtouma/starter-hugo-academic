@@ -2,6 +2,14 @@
 widget: experience
 date_format: Jan 2006
 experience:
+  - title: incoming Research Scientist
+    company: Caltech
+    company_url: ""
+    company_logo: null
+    location: Pasadena, California
+    date_start: 2021-12-01
+    date_end: ""
+    description: null
   - title: Robotics Engineer
     company: NASA Jet Propulsion Laboratory
     company_url: ""
