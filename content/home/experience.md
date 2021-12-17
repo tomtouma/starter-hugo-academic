@@ -2,7 +2,7 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: incoming Research Scientist
+  - title: Research Scientist
     company: Caltech
     company_url: ""
     company_logo: null
