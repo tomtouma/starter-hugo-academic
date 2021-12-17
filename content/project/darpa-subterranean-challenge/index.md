@@ -3,7 +3,7 @@ slides: ""
 url_pdf: ""
 summary: ""
 url_video: ""
-date: 2021-12-01T08:18:34.157Z
+date: 2021-12-06T05:42:54.431Z
 external_link: https://costar.jpl.nasa.gov/#team_paterners_up
 url_slides: ""
 title: DARPA Subterranean Challenge
